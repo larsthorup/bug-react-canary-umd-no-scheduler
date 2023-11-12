@@ -1,0 +1,16 @@
+{
+  "name": "bug-react-canary-umd-no-scheduler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.3.0-canary-6b3834a45-20231110",
+    "react-dom": "^18.3.0-canary-6b3834a45-20231110"
+  }
+}
