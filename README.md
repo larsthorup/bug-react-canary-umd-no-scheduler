@@ -1,0 +1,1 @@
+# bug-react-canary-umd-no-scheduler
